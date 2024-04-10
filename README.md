@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Van Truong Lee</h1>
 <h3 align="center">A commoner from nowhere</h3>
