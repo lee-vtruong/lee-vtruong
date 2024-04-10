@@ -4,7 +4,7 @@
 <h3 align="center">A commoner from nowhere</h3>
 
 <a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=lee-vtruong&style=for-the-badge">
+    <img align="center" src="https://komarev.com/ghpvc/?username=lee-vtruong&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
