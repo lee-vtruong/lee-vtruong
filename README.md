@@ -4,7 +4,6 @@
 <h3 align="center">A commoner from nowhere</h3>
 
 - 🔭 I’m currently working on **VNU-HCM University of Science**
-- 📫 How to reach me **letruong2005ooo@gmail.com**
 - ⚡ Fun fact **Học, học nữa, học mãi**
 - Yeah, Life only begins when we stop judging.
 
