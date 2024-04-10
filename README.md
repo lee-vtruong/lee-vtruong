@@ -7,7 +7,6 @@
 - ⚡ Fun fact **Học, học nữa, học mãi**
 - Yeah, Life only begins when we stop judging.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
