@@ -1,8 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Van Truong Lee</h1>
-![](https://komarev.com/ghpvc/?lee-vtruong=your-github-username&color=lightgrey)
 <h3 align="center">A commoner from nowhere</h3>
+![](https://komarev.com/ghpvc/?lee-vtruong=your-github-username)
+![](https://komarev.com/ghpvc/?lee-vtruong=your-github-username&color=lightgrey)
 
 - 🔭 I’m currently working on **VNU-HCM University of Science**
 - ⚡ Fun fact **Học, học nữa, học mãi**
