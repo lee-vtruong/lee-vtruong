@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Van Truong Lee</h1>
 <h3 align="center">A commoner from nowhere</h3>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lee-vtruong&style=for-the-badge">
 </a>
 
